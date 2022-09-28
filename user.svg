@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Шар_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 24 20" style="enable-background:new 0 0 24 20;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+</style>
+<g transform="translate(1 1)">
+	<g>
+		<path class="st0" d="M15,19c-0.553,0-1-0.447-1-1v-2c0-1.654-1.346-3-3-3H4c-1.654,0-3,1.346-3,3v2c0,0.553-0.448,1-1,1
+			s-1-0.447-1-1v-2c0-2.757,2.243-5,5-5h7c2.757,0,5,2.243,5,5v2C16,18.553,15.553,19,15,19z"/>
+	</g>
+	<g>
+		<path class="st0" d="M7.5,9c-2.757,0-5-2.243-5-5s2.243-5,5-5s5,2.243,5,5S10.257,9,7.5,9z M7.5,1c-1.654,0-3,1.346-3,3
+			s1.346,3,3,3s3-1.346,3-3S9.154,1,7.5,1z"/>
+	</g>
+	<g>
+		<path class="st0" d="M18,11c-0.256,0-0.512-0.098-0.707-0.293l-2-2c-0.391-0.391-0.391-1.023,0-1.414s1.023-0.391,1.414,0
+			L18,8.586l3.293-3.293c0.391-0.391,1.023-0.391,1.414,0s0.391,1.023,0,1.414l-4,4C18.512,10.902,18.256,11,18,11z"/>
+	</g>
+</g>
+</svg>
